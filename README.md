@@ -49,6 +49,6 @@ While the Wire library comes pre-installed with the Wire library, the LiquidCrys
   </tbody>
 </table>
 
-#Board Set-up
+# Board Set-up
 
 ![board](/images/board.png)
